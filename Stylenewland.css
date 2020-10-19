@@ -550,9 +550,7 @@ body {
           background: #CA2D2D;
           border: none;
         }
-        .form-block-div{
-          
-        }
+        
         .form-block{
           display: inline-block;
         }
@@ -595,14 +593,14 @@ body {
      border: 2px #0419FF;
      width: 100%;
      height: auto;
-     box-shadow:inset 2px 2px 2px #0CABF4;
+     box-shadow:inset 2px 2px 2px #068094;
      background: black;
      padding-bottom: 2rem;
    }
 
 .about_me p {
   font-size: 2rem;
-  color: #D4FEF5;
+  color: #DAFFFA;
   margin: 2rem;
   
 }
